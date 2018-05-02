@@ -1,3 +1,3 @@
 # ObserverPatternSample
 
-Object Oriented Desing Pattens : Observer Pattern sample code.
+Object Oriented Desing Patterns : Observer Pattern sample code.
